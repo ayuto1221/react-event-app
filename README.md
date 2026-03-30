@@ -17,3 +17,7 @@
 ```bash
 git clone <リポジトリURL>
 cd <プロジェクトフォルダ名>
+
+## 📄 ドキュメント
+[開発ドキュメントはこちら](./event-app-document.pdf)
+
